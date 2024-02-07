@@ -1,4 +1,4 @@
-### Hi, I'm Gus
+### Hi, I'm Gus ✌🏼
 
 I'm a web developer and designer with a background in theatre (acting, writing, directing). I enjoy tinkering and thinking through software, spelunking through creative computing projects, and researching media and interactions. I love to write beautiful, fast software that is a delight to use.
 
