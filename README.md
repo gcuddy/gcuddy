@@ -1,8 +1,8 @@
 ### Hi, I'm Gus ✌🏼
 
-I'm a web developer and designer with a background in theatre (acting, writing, directing). I enjoy tinkering and thinking through software, spelunking through creative computing projects, and researching media and interactions. I love to write beautiful, fast software that is a delight to use.
+I'm a programmer and designer with a background in theatre and film (acting, writing, directing). I enjoy thinking through interfaces and writing fast, beautiful software that is a delight to use.
 
-I'm interested in technology that is truly liberating, soul-expanding art, tools for thought, and software that feels alive.
+I'm interested in technology that is liberating, soul-expanding art, tools for thought and creativity, and software that feels alive.
 
 <!--
 **gcuddy/gcuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
